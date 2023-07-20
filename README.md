@@ -20,7 +20,7 @@
 </p>
 
 ### [+] Description
-Rush PowerShell Obfuscator is repo that make the process of obfuscating your powershell files easy
+Rush PowerShell Obfuscator is a repo that make the process of obfuscating your powershell files easy
 
 ### [+] Installation
  - `git clone https://github.com/DARKNOSY/Rush-PowerShell-Obfuscator/`
