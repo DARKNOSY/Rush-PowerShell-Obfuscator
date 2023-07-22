@@ -1,3 +1,5 @@
+#https://github.com/DARKNOSY/Rush-PowerShell-Obfuscator, made by DARKN0$Y
+
 import os
 import base64
 import requests
