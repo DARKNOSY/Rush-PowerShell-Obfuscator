@@ -33,9 +33,6 @@ Rush PowerShell Obfuscator is a repo that make the process of obfuscating your p
  - `Wait...`
  - `Check the path printed out by the script of the obfuscated script`
 
-### [+] Screenshot
-![screenshot](https://github.com/DARKNOSY/Rush-PowerShell-Obfuscator/blob/main/Example/powershell.gif?raw=true)
-
 ### [+] Features
  - Many Options
  - Fast
