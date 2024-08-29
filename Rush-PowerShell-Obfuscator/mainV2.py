@@ -6,7 +6,6 @@ import requests
 import argparse
 from colorama import Fore, Style, init
 
-# Initialize colorama for cross-platform colored output
 init(autoreset=True)
 
 def print_header():
