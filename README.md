@@ -48,7 +48,3 @@ Rush PowerShell Obfuscator is a repo that make the process of obfuscating your p
 
 ### [+] Disclaimer 
 I am not responsible for any use of this program
-
-### [+] Find me on 
-<a href="mailto:dark.help87@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-dark.help87@yahoo.com-blue?style=for-the-badge&logo=gmail"></a>
-
